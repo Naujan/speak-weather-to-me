@@ -1,6 +1,6 @@
 # Speak weather to me
 
-A weather app for almamedia, made with create-react-app!
+A weather app assignment from almamedia, made with create-react-app!
 
 # Manual
 
